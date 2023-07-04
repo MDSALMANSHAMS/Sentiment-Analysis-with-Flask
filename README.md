@@ -1,6 +1,5 @@
 # Sentiment-Analysis-ML-Flask-App
-[![Watch the video](<img width="619" alt="Sentiment-Analysis with Flask " src="https://github.com/MDSALMANSHAMS/Sentiment-Analysis-with-Flask/assets/68110323/d4b751b2-182b-4355-a494-a2cbc6f445b5">
-)](https://youtu.be/Fky6KNRe4Tc)
+[![Watch the video]<img width="619" alt="Sentiment-Analysis with Flask " src="https://github.com/MDSALMANSHAMS/Sentiment-Analysis-with-Flask/assets/68110323/d4b751b2-182b-4355-a494-a2cbc6f445b5">](https://youtu.be/Fky6KNRe4Tc)
 
 
 A machine learning end to end flask web app for sentiment analysis model created using Scikit-learn &amp; VADER Sentiment. <br />
